@@ -4,7 +4,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungparkmin&count_private=true)](https://github.com/kyungparkmin/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungparkmin&count_private=true)](https://github.com/kyungparkmin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungparkmin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
