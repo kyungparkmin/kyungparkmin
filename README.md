@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=kyungparkmin&hide=stars&show_icons=true"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=kyungparkmin&hide=stars&show_icons=true&count_private=true"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungparkmin&count_private=true)](https://github.com/kyungparkmin/github-readme-stats)
 
