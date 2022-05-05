@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-I'm learning Express.js and React.js
+
 <img src="https://github-readme-stats.vercel.app/api?username=kyungparkmin&hide=stars&show_icons=true&count_private=true&theme=radical"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungparkmin)](https://github.com/anuraghazra/github-readme-stats)
