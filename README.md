@@ -1,5 +1,8 @@
 ### Hi there 👋
 <hr>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kyungparkmin&hide=stars&show_icons=true&count_private=true&theme=radical"/></a>
 
