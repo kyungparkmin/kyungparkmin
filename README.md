@@ -13,7 +13,7 @@
 ### 🛠️ tools
 <hr>
 <p align="left">
-<img src="https://img.shields.io/badge/Visual Studio code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
 
 <img src="https://github-readme-stats.vercel.app/api?username=kyungparkmin&hide=stars&show_icons=true&count_private=true&theme=radical"/></a>
