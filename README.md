@@ -25,6 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungparkmin)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungparkmin)](https://solved.ac/kyungparkmin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyungparkmin&theme=onedark)](https://github.com/kyungparkmin/github-profile-trophy)
 
 
 
