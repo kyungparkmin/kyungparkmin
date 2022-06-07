@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
 <hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyungparkmin&count_bg=%233D67C8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyungparkmin&count_bg=%233D67C8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=kyungparkmin&hide=stars&show_icons=true&count_private=true&theme=radical"/></a>
 
