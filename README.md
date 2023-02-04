@@ -20,10 +20,6 @@
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyungparkmin&count_bg=%233D67C8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=kyungparkmin&hide=stars&show_icons=true&count_private=true&theme=radical"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungparkmin)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungparkmin)](https://solved.ac/kyungparkmin)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kyungparkmin&theme=onedark)](https://github.com/kyungparkmin/github-profile-trophy)<br />
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=kyungparkmin)
 
